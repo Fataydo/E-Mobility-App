@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/drawable/ic_baseline_error_24.xml" value="0.2105" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.109" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/drawable/ic_baseline_list_alt_24.xml" value="0.2105" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.2105" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.2105" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.15" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/drawable/ic_icons8_marker_90.xml" value="0.15" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/layout/activity_logging.xml" value="0.22" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/layout/activity_maps.xml" value="0.20244565217391305" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/layout/activity_report_information.xml" value="0.19635416666666666" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/layout/custom_info_window.xml" value="0.148046875" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/layout/fragment_fav.xml" value="0.18541666666666667" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/layout/fragment_maps.xml" value="0.22" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/layout/fragment_report.xml" value="0.19519927536231885" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/layout/fragment_report_list.xml" value="0.19635416666666666" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/layout/recycler_view_row_favourite.xml" value="0.19635416666666666" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/layout/reycler_view_row.xml" value="0.19635416666666666" />
+        <entry key="..\:/Studium/Studium_4.Semester/NZSE/Emobility/app/src/main/res/layout/window_layout.xml" value="0.13043478260869565" />
+        <entry key="..\:/Users/D/AndroidStudioProjects/Emobility1/app/src/main/res/drawable/gradient_background.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/D/AndroidStudioProjects/Emobility1/app/src/main/res/layout/activity_main.xml" value="0.190625" />
+        <entry key="..\:/Users/D/AndroidStudioProjects/Emobility1/app/src/main/res/layout/fragment_fav.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/D/AndroidStudioProjects/Emobility1/app/src/main/res/layout/fragment_maps.xml" value="0.190625" />
+        <entry key="..\:/Users/D/AndroidStudioProjects/Emobility1/app/src/main/res/layout/fragment_report_list.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/D/AndroidStudioProjects/Emobility1/app/src/main/res/layout/recycler_view_row_favourite.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/D/AndroidStudioProjects/Emobility1/app/src/main/res/layout/reycler_view_row.xml" value="0.19166666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../../../" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
